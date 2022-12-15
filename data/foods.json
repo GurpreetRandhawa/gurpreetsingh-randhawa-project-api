@@ -1,0 +1,86 @@
+[
+  {
+    "id": "84e96018-4022-434e-80bf-000ce4cd12b1",
+    "category": "vegetable",
+    "name": "Aloo-matar",
+    "image": "aloo.jpg"
+  },
+  {
+    "id": "84e96018-4022-434e-80bf-000ce4cd12b2",
+    "category": "vegetable",
+    "name": "Dal(Lentil)",
+    "image": "dal.jpg"
+  },
+  {
+    "id": "84e96018-4022-434e-80bf-000ce4cd12b3",
+    "category": "vegetable",
+    "name": "Matar-Paneer",
+    "image": "matar.jpg"
+  },
+  {
+    "id": "84e96018-4022-434e-80bf-000ce4cd12b4",
+    "category": "vegetable",
+    "name": "Saag",
+    "image": "saag.jpg"
+  },
+  {
+    "id": "84e96018-4022-434e-80bf-000ce4cd12b5",
+    "category": "vegetable",
+    "name": "Panner Bhurji",
+    "image": "paneer.jpg"
+  },
+  {
+    "id": "84e96018-4022-434e-80bf-000ce4cd12b6",
+    "category": "vegetable",
+    "name": "Shahi-Paneer",
+    "image": "shahi.jpg"
+  },
+  {
+    "id": "84e96018-4022-434e-80bf-000ce4cd12b7",
+    "category": "rice",
+    "name": "Plain Rice",
+    "image": "plainrice.jpg"
+  },
+  {
+    "id": "84e96018-4022-434e-80bf-000ce4cd12b8",
+    "category": "rice",
+    "name": "Jeera Rice",
+    "image": "jeerarice.jpg"
+  },
+  {
+    "id": "84e96018-4022-434e-80bf-000ce4cd12b9",
+    "category": "roti",
+    "name": "Garlic Naan",
+    "image": "garlicnaan.jpg"
+  },
+  {
+    "id": "84e96018-4022-434e-80bf-000ce4cd12a1",
+    "category": "roti",
+    "name": "Butter Naan",
+    "image": "butter naan.jpg"
+  },
+  {
+    "id": "84e96018-4022-434e-80bf-000ce4cd12a2",
+    "category": "roti",
+    "name": "Wheat Roti",
+    "image": "roti.jpg"
+  },
+  {
+    "id": "84e96018-4022-434e-80bf-000ce4cd12a3",
+    "category": "dessert",
+    "name": "Kheer",
+    "image": "kheer.jpg"
+  },
+  {
+    "id": "84e96018-4022-434e-80bf-000ce4cd12a4",
+    "category": "dessert",
+    "name": "Jalebi",
+    "image": "jalebi.jpg"
+  },
+  {
+    "id": "84e96018-4022-434e-80bf-000ce4cd12a5",
+    "category": "dessert",
+    "name": "RasMalai",
+    "image": "rasmalai.jpg"
+  }
+]
