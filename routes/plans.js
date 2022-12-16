@@ -20,6 +20,7 @@ router.get("/", (_req, res) => {
         vegetable: plan.vegetable,
         rice: plan.rice,
         roti: plan.roti,
+        price: plan.price,
         dessert: plan.dessert,
       };
     });

@@ -6,26 +6,27 @@
     "vegetable": "2 Sabzi",
     "rice": "8 Ounce Rice",
     "roti": "4 Rotis",
-    "dessert": "Kheer"
+    "dessert": "Kheer",
+    "price": "$170"
   },
   {
     "id": "c05b9a93-8682-4ab6-aff2-92ebb4bbfc14",
     "title": "Premium",
-    "channel": "Todd Welch",
     "image": "premium.jpg",
     "vegetable": "3 Sabzis",
     "rice": "8 Ounce Rice",
     "roti": "6 Rotis",
-    "dessert": "Jalebi"
+    "dessert": "Jalebi",
+    "price": "$190"
   },
   {
     "id": "25ce5d91-a262-4dcf-bb87-42b87546bcfa",
     "title": "Jumbo",
-    "channel": "Cornelia Blair",
     "image": "jumbo.jpg",
     "vegetable": "4 Sabzis",
     "rice": "8 Ounce Jeera Rice",
     "roti": "8 Rotis",
-    "dessert": "Rasmalai"
+    "dessert": "Rasmalai",
+    "price": "$225"
   }
 ]
